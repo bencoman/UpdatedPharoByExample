@@ -845,3 +845,5 @@ dynamically composed.
 -You can control how a morph reacts to mouse and keyboard events by redefining the methods ==handlesMouseDown:==, ==handlesMouseOver:==, etc.
 -You can animate a morph by defining the methods ==step== (what to do) and ==stepTime== (the number of milliseconds between steps).
 -Various pre-defined morphs, like ==PopUpMenu== and ==FillInTheBlank==, are available for interacting with users.
+
+TEST2-ALSO-IGNORE
